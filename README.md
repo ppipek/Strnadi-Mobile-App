@@ -1,7 +1,7 @@
 # Návrat krále
 
 ## Overview
-Návrat krále is a Flutter-based mobile application designed to record and track dialect variations of the bird species *Strand*. The app allows users to record bird calls, store them with geolocation data, and visualize the distribution of dialects on an interactive map.
+Návrat krále is a Flutter-based mobile application designed to record and track dialect variations of the bird species *Strnad*. The app allows users to record bird calls, store them with geolocation data, and visualize the distribution of dialects on an interactive map.
 
 ## Features
 - **Audio Recording**: Capture bird calls directly from the app.
